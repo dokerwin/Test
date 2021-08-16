@@ -54,11 +54,15 @@ public slots:
     void duplicateData(int row);
     void removeData(int row);
     void refresh();
-
+    void zopa_in_master();
 
 
 private:
+
+
+     int test_in_master;
      int test_1branch;
+
     QVector<Data> m_data;
 
 };
