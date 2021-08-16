@@ -46,6 +46,7 @@ public:
     QHash<int, QByteArray> roleNames() const override;
     void setData(QString name,QString path, int duration);
     QVector<Data>&get_data();
+	void zopa_in_test();
 
 
 
