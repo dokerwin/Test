@@ -53,7 +53,7 @@ public slots:
     void duplicateData(int row);
     void removeData(int row);
     void refresh();
-
+    void zopa_in_master();
 
 
 private:
