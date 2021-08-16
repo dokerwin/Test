@@ -15,8 +15,7 @@ public:
     void priviously();
     void setVolume();
 
-    //zopa zopa zopa
-    // in another branch
+
     Playlist &getPlaylist();
     void set_curr_track();
     void start_playing();

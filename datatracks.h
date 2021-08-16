@@ -58,7 +58,10 @@ public slots:
 
 private:
 
-    int test_in_master;
+
+     int test_in_master;
+     int test_1branch;
+
     QVector<Data> m_data;
 
 };
