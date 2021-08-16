@@ -48,6 +48,7 @@ public:
     QVector<Data>&get_data();
 	void zopa_in_test();
 
+//commit from another user
 
 
 public slots:
